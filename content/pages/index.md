@@ -172,7 +172,7 @@ sections:
       text:
         textAlign: center
   - type: RecentPostsSection
-    subtitle: Posts
+    subtitle: ''
     actions:
       - type: Link
         label: See all posts
