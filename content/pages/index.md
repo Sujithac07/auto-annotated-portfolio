@@ -136,22 +136,26 @@ sections:
     variant: variant-a
     title: Experience
     subtitle: ''
-    text: |+
+    text: >+
       #### Data Science Intern at Unified Mentor
 
-      *   **Responsibilities:**
 
-          *   Created visualizations of data using Tableau and Power BI.
-
-          *   Built machine learning models for classification and regression problems.
-
-          *   Documented data engineering workflows in Jupyter notebooks for reproducibility.
-
-      *   **Contribution:**
-
-          *   Received positive feedback from supervisors for quality work and dedication.
+      \<div style="text-align: left">**Responsibilities:**\</div>
 
 
+      *   Created visualizations of data using Tableau and Power BI.
+
+
+      *   Built machine learning models for classification and regression
+      problems.
+
+
+      *   Documented data engineering workflows in Jupyter notebooks for
+      reproducibility.
+
+
+      *   Received positive feedback from supervisors for quality work and
+      dedication.
 
 
 
