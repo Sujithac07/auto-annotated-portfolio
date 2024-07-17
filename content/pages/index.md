@@ -173,15 +173,7 @@ sections:
         textAlign: center
   - type: RecentPostsSection
     subtitle: ''
-    actions:
-      - type: Link
-        label: See all posts
-        altText: See all posts
-        url: /blog
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
+    actions: []
     colors: colors-f
     variant: variant-a
     elementId: ''
