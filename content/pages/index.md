@@ -175,16 +175,19 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Certifications
-    text: |+
-      *   *   **Google Cloud Computing Foundations**
-
-              *   Acquired comprehensive knowledge of cloud computing principles and practices.*   **Data Science Intern from unified mentor**
-
-              *   Gained hands-on experience in data analysis, machine learning, and data visualization techniques.
+    text: >+
 
 
+      **Google Cloud Computing Foundations**
 
 
+      *   Acquired comprehensive knowledge of cloud computing principles and
+      practices.\*
+
+         **Data Science Intern from unified mentor**
+
+      *   Gained hands-on experience in data analysis, machine learning, and
+      data visualization techniques.
 
     elementId: ''
     styles:
