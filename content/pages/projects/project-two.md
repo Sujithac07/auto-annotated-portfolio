@@ -5,10 +5,6 @@ colors: colors-a
 date: '2021-12-20'
 client: Awesome client
 description: ' Designed and developed a bank management server with an intuitive graphical user interface using Java Swings.'
-featuredImage:
-  type: ImageBlock
-  url: /images/bg2.jpg
-  altText: Project thumbnail image
 media:
   type: ImageBlock
   url: /images/bg2.jpg
