@@ -213,22 +213,6 @@ sections:
       potential collaborators. Feel free to reach out to me through any of the
       following methods:
 
-    form:
-      type: FormBlock
-      title: Title of the form
-      fields:
-        - type: EmailFormControl
-          name: email
-          label: Name
-          hideLabel: false
-          placeholder: Your email
-          width: full
-          isRequired: 'true'
-      submitLabel: Sign Up
-      elementId: contact-form
-      styles:
-        submitLabel:
-          textAlign: left
     colors: colors-c
     backgroundSize: full
     elementId: ''
