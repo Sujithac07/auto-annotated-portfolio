@@ -4,7 +4,9 @@ title: Database Management System using MySQL
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
-description: ''
+description: >-
+  Designed and implemented a comprehensive database management system, ensuring
+  efficient data storage and retrieval.
 media:
   type: ImageBlock
   url: /images/bg3.jpg
