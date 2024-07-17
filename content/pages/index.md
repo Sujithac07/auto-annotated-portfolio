@@ -175,13 +175,17 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Certifications
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: |+
+      *   *   **Google Cloud Computing Foundations**
+
+              *   Acquired comprehensive knowledge of cloud computing principles and practices.*   **Data Science Intern from unified mentor**
+
+              *   Gained hands-on experience in data analysis, machine learning, and data visualization techniques.
+
+
+
+
+
     elementId: ''
     styles:
       self:
