@@ -14,8 +14,16 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      Welcome! I'm Sujith A CI'm a third-year Computer Science student at The
+      Apollo University, specializing in Artificial Intelligence and Data
+      Science. With skills in Python, Java, R, SQL, and C, I have a strong
+      foundation in developing innovative software solutions. My internship at
+      Unified Mentor allowed me to build machine learning models and create data
+      visualizations using Tableau and Power BI.I thrive in collaborative
+      environments, having led student club initiatives and worked on group
+      projects. My goal is to leverage my technical expertise to contribute to
+      impactful tech projects.Explore my portfolio to learn more about my
+      projects and skills. Let's connect and innovate together!
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
@@ -84,7 +92,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
