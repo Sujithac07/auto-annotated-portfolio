@@ -133,6 +133,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Projects
+    title: Projects
   - type: TextSection
     colors: colors-f
     variant: variant-a
