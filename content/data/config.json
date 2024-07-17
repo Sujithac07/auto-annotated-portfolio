@@ -31,6 +31,14 @@
                 "label": "GitHub",
                 "url": "https://github.com/Sujithac07",
                 "icon": "github"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/https://linkedin.com/in/sujith-a-c-72325a285",
+                "icon": "linkedin",
+                "elementId": ""
             }
         ],
         "styles": {
