@@ -4,7 +4,9 @@ title: Interactive Dashboards for Data Visualization
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
-description: ''
+description: >-
+  Created interactive dashboards using Tableau and Power BI to visualize data
+  insights and trends.
 media:
   type: ImageBlock
   url: /images/bg1.jpg
