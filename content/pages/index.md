@@ -206,7 +206,7 @@ sections:
       text:
         textAlign: left
   - type: ContactSection
-    title: ''
+    title: Contact
     text: Join my newsletter to stay up-to-date
     form:
       type: FormBlock
