@@ -12,11 +12,6 @@
                 "type": "Link",
                 "label": "Projects",
                 "url": "/projects"
-            },
-            {
-                "type": "Link",
-                "label": "contact",
-                "url": "/contact"
             }
         ],
         "socialLinks": [
