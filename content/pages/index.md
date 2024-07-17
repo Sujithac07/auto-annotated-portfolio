@@ -207,7 +207,12 @@ sections:
         textAlign: left
   - type: ContactSection
     title: Contact
-    text: Join my newsletter to stay up-to-date
+    text: >+
+
+      I'm always excited to connect with fellow enthusiasts, professionals, and
+      potential collaborators. Feel free to reach out to me through any of the
+      following methods:
+
     form:
       type: FormBlock
       title: Title of the form
