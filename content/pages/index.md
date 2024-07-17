@@ -15,9 +15,16 @@ sections:
     backgroundSize: full
     title: Welcome! I'm Sujith A C
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I'M A THIRD-YEAR COMPUTER SCIENCE STUDENT AT THE APOLLO UNIVERSITY,
+      SPECIALIZING IN ARTIFICIAL INTELLIGENCE AND DATA SCIENCE. WITH SKILLS IN
+      PYTHON, JAVA, R, SQL, AND C, I HAVE A STRONG FOUNDATION IN DEVELOPING
+      INNOVATIVE SOFTWARE SOLUTIONS. MY INTERNSHIP AT UNIFIED MENTOR ALLOWED ME
+      TO BUILD MACHINE LEARNING MODELS AND CREATE DATA VISUALIZATIONS USING
+      TABLEAU AND POWER BI.I THRIVE IN COLLABORATIVE ENVIRONMENTS, HAVING LED
+      STUDENT CLUB INITIATIVES AND WORKED ON GROUP PROJECTS. MY GOAL IS TO
+      LEVERAGE MY TECHNICAL EXPERTISE TO CONTRIBUTE TO IMPACTFUL TECH
+      PROJECTS.EXPLORE MY PORTFOLIO TO LEARN MORE ABOUT MY PROJECTS AND SKILLS.
+      LET'S CONNECT AND INNOVATE TOGETHER!
     styles:
       self:
         height: auto
