@@ -171,35 +171,6 @@ sections:
         textAlign: center
       text:
         textAlign: center
-  - type: RecentPostsSection
-    subtitle: ''
-    actions: []
-    colors: colors-f
-    variant: variant-a
-    elementId: ''
-    recentCount: 2
-    showDate: true
-    showAuthor: false
-    showExcerpt: true
-    showFeaturedImage: false
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: center
-    title: Certifications
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
