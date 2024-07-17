@@ -53,23 +53,31 @@ sections:
     variant: variant-a
     title: About me
     text: >+
-      I am Sujith A C, a third-year Computer Science student at The Apollo
-      University, specializing in Artificial Intelligence and Data Science with
-      a GPA of 9.2. Proficient in Python, Java, R, SQL, and C, I have developed
-      a bank management server using Java Swings and a database management
-      system with MySQL.
+      I am Sujith A C, currently pursuing my Bachelor's degree in Computer
+      Science and Engineering with a focus on Artificial Intelligence and Data
+      Science at The Apollo University, Chittoor, Andhra Pradesh. Throughout my
+      academic journey, I've maintained a GPA of 9.2 and actively participated
+      in various technical and extracurricular activities.
 
 
-      During my internship at Unified Mentor, I built machine learning models
-      and created data visualizations using Tableau and Power BI.
+      My technical skills include proficiency in Python, Java, R, SQL, and C. I
+      have hands-on experience in developing a bank management server using Java
+      Swings and designing a robust database management system with MySQL.
+      During my internship at Unified Mentor, I enhanced my skills in machine
+      learning and data visualization, utilizing tools like Tableau and Power BI
+      to create impactful insights.
 
 
-      In addition to my technical skills, I have strong abilities in time
-      management, problem-solving, teamwork, and adaptability. I am fluent in
-      Telugu, English, and have a basic understanding of Hindi.
+      Apart from technical skills, I possess strong interpersonal skills such as
+      time management, problem-solving, teamwork, and adaptability. Fluent in
+      Telugu and English, with a basic understanding of Hindi, I am eager to
+      contribute my skills and knowledge to meaningful projects in the tech
+      industry.
 
 
-      Let's connect and explore opportunities to innovate together!
+      Let's connect and explore opportunities to innovate and create together!
+
+
 
 
 
