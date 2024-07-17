@@ -208,10 +208,29 @@ sections:
   - type: ContactSection
     title: Contact
     text: >+
-
       I'm always excited to connect with fellow enthusiasts, professionals, and
       potential collaborators. Feel free to reach out to me through any of the
       following methods:
+
+
+      *   **Email:** [sujithac07@gmail.com]()
+
+
+      *   **Phone:** +91 9989017049
+
+
+      *   **LinkedIn:**
+      [linkedin.com/in/sujith-a-c-72325a285](https://linkedin.com/in/sujith-a-c-72325a285)
+
+
+      *   **Address:** Chittoor, Andhra Pradesh, India, 517001
+
+
+      Looking forward to connecting and exploring opportunities together!
+
+
+
+
 
     colors: colors-c
     backgroundSize: full
