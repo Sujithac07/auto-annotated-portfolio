@@ -56,13 +56,27 @@ sections:
     colors: colors-f
     variant: variant-a
     title: About me
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      I am Sujith A C, a third-year Computer Science student at The Apollo
+      University, specializing in Artificial Intelligence and Data Science with
+      a GPA of 9.2. Proficient in Python, Java, R, SQL, and C, I have developed
+      a bank management server using Java Swings and a database management
+      system with MySQL.
+
+
+      During my internship at Unified Mentor, I built machine learning models
+      and created data visualizations using Tableau and Power BI.
+
+
+      In addition to my technical skills, I have strong abilities in time
+      management, problem-solving, teamwork, and adaptability. I am fluent in
+      Telugu, English, and have a basic understanding of Hindi.
+
+
+      Let's connect and explore opportunities to innovate together!
+
+
+
     elementId: ''
     styles:
       self:
