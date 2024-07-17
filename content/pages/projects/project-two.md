@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Bank Management Server using Java Swings and GUIs
+title: Bank Management Server using Java Swings and GUI's
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
