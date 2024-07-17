@@ -134,7 +134,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: ''
+    title: Experience
     subtitle: The section subtitle
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
