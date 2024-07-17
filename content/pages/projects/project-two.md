@@ -4,10 +4,7 @@ title: Bank Management Server using Java Swings and GUIs
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: >-
-  Bank Management Server using Java Swings and GUIs Designed and developed a
-  bank management server with an intuitive graphical user interface using Java
-  Swings.
+description: ' Designed and developed a bank management server with an intuitive graphical user interface using Java Swings.'
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
