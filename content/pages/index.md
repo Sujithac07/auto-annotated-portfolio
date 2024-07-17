@@ -207,6 +207,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: center
+    title: Certifications
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
