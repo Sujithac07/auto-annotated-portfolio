@@ -136,13 +136,25 @@ sections:
     variant: variant-a
     title: Experience
     subtitle: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: |+
+      #### Data Science Intern at Unified Mentor
+
+      *   **Responsibilities:**
+
+          *   Created visualizations of data using Tableau and Power BI.
+
+          *   Built machine learning models for classification and regression problems.
+
+          *   Documented data engineering workflows in Jupyter notebooks for reproducibility.
+
+      *   **Contribution:**
+
+          *   Received positive feedback from supervisors for quality work and dedication.
+
+
+
+
+
     elementId: ''
     styles:
       self:
