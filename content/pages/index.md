@@ -140,7 +140,7 @@ sections:
       #### Data Science Intern at Unified Mentor
 
 
-      \<div style="text-align: left">**Responsibilities:**\</div>
+      **Responsibilities:**
 
 
       *   Created visualizations of data using Tableau and Power BI.
@@ -156,8 +156,6 @@ sections:
 
       *   Received positive feedback from supervisors for quality work and
       dedication.
-
-
 
     elementId: ''
     styles:
