@@ -232,7 +232,7 @@ sections:
 
 
 
-    colors: colors-a
+    colors: colors-f
     backgroundSize: full
     elementId: ''
     styles:
