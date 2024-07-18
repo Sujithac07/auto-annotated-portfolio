@@ -97,42 +97,6 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - colors: colors-f
-    type: FeaturedProjectsSection
-    elementId: ''
-    actions: []
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
-    subtitle: ''
-    title: Projects
   - type: TextSection
     colors: colors-f
     variant: variant-b
@@ -194,6 +158,42 @@ sections:
         textAlign: center
       text:
         textAlign: center
+  - colors: colors-f
+    type: FeaturedProjectsSection
+    elementId: ''
+    actions: []
+    showDate: false
+    showDescription: true
+    showFeaturedImage: true
+    showReadMoreLink: true
+    variant: variant-b
+    projects:
+      - content/pages/projects/project-two.md
+      - content/pages/projects/project-three.md
+      - content/pages/projects/project-one.md
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-end
+    subtitle: ''
+    title: Projects
   - type: TextSection
     colors: colors-f
     variant: variant-a
