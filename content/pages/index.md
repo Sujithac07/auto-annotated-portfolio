@@ -238,6 +238,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    subtitle: Get My Resume
   - type: ContactSection
     title: Contact
     text: >
