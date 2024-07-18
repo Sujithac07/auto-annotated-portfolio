@@ -133,6 +133,34 @@ sections:
         justifyContent: flex-end
     subtitle: ''
     title: Projects
+  - type: FeaturedPostsSection
+    actions: []
+    posts:
+      - content/pages/blog/post-five.md
+    colors: colors-f
+    variant: variant-c
+    elementId: ''
+    showDate: true
+    showAuthor: false
+    showExcerpt: true
+    showFeaturedImage: false
+    showReadMoreLink: true
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: center
   - type: TextSection
     colors: colors-f
     variant: variant-a
