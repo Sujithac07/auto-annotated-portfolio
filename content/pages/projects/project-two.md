@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Bank Management Server using Java Swings and GUI's
 colors: colors-a
-date: '2023-05-20'
+date: '2023-05-17'
 client: ''
 description: ' Designed and developed a bank management server with an intuitive graphical user interface using Java Swings.'
 ---
