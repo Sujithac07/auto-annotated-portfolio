@@ -17,7 +17,7 @@
                 "type": "Link",
                 "label": "about",
                 "altText": "",
-                "url": "/About me",
+                "url": "/About",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
