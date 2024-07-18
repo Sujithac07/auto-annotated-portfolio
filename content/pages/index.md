@@ -210,31 +210,6 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: RESUME
-    text: |+
-      https\://ln.run/kwCR3
-
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-    subtitle: Get My Resume
   - type: ContactSection
     title: Contact
     text: >
@@ -254,6 +229,30 @@ sections:
 
 
       *   **Address:** India
+
+
+      Looking forward to connecting and exploring opportunities together!
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-36
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      text:
+        textAlign: left
+---
+ress:** India
 
 
       Looking forward to connecting and exploring opportunities together!
