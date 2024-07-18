@@ -138,13 +138,45 @@ sections:
     variant: variant-b
     title: Skills
     subtitle: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: |+
+      ### **Technical Skills**
+
+      *   **Programming Languages:** Python, Java, R, SQL
+
+      *   **Frameworks/Libraries:** TensorFlow, Pandas, Scikit-learn
+
+      *   **Tools:** Jupyter Notebook, Git, Tableau
+
+      *   **Database Management:** MySQL, PostgreSQL
+
+      *   **Web Development:** HTML, CSS, JavaScript
+
+      *   **Machine Learning & AI:** Algorithms, Data Modeling
+
+      *   **Cloud Computing:** AWS, Google Cloud
+
+      ### **Soft Skills**
+
+      *   **Communication**
+
+      *   **Problem-Solving**
+
+      *   **Teamwork**
+
+      *   **Time Management**
+
+      *   **Adaptability**
+
+      *   **Critical Thinking**
+
+      *   **Attention to Detail**
+
+      *   **Leadership**
+
+
+
+
+
     elementId: ''
     styles:
       self:
