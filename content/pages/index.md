@@ -133,36 +133,6 @@ sections:
         justifyContent: flex-end
     subtitle: ''
     title: Projects
-  - type: MediaGallerySection
-    title: Resume
-    subtitle: Download the resume
-    images:
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: logo five
-        caption: Caption of the image
-        elementId: ''
-    colors: colors-f
-    spacing: 16
-    columns: 5
-    aspectRatio: '16:9'
-    showCaption: true
-    enableHover: false
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
   - type: TextSection
     colors: colors-f
     variant: variant-a
