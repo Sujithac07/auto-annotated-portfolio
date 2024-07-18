@@ -135,7 +135,7 @@ sections:
     title: Projects
   - type: MediaGallerySection
     title: Resume
-    subtitle: download the resume
+    subtitle: ownload the resume
     images:
       - type: ImageBlock
         url: /images/logo5.svg
