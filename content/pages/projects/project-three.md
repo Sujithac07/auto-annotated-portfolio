@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Database Management System using MySQL
 colors: colors-a
 date: '2024-01-22'
-client: Awesome client
+client: client
 description: >-
   Designed and implemented a comprehensive database management system, ensuring
   efficient data storage and retrieval.
