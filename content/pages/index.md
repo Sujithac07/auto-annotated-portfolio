@@ -138,11 +138,6 @@ sections:
     subtitle: download the resume
     images:
       - type: ImageBlock
-        url: /images/logo2.svg
-        altText: logo two
-        caption: Caption of the image
-        elementId: ''
-      - type: ImageBlock
         url: /images/logo3.svg
         altText: logo three
         caption: Caption of the image
