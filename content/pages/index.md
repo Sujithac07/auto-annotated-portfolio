@@ -15,12 +15,11 @@ sections:
     backgroundSize: full
     title: Welcome! I'm Sujith A C
     subtitle: >-
-      I'm Sujith A C, a passionate third-year Computer Science student at The
-      Apollo University, specializing in Artificial Intelligence and Data
-      Science. With a solid foundation in Python, Java, R, SQL, and C, I am
-      dedicated to developing innovative solutions that make an impact. Explore
-      my projects and skills to discover how we can collaborate and innovate
-      together.
+      A passionate third-year Computer Science student at The Apollo University,
+      specializing in Artificial Intelligence and Data Science. With a solid
+      foundation in Python, Java, R, SQL, and C, I am dedicated to developing
+      innovative solutions that make an impact. Explore my projects and skills
+      to discover how we can collaborate and innovate together.
     styles:
       self:
         height: auto
