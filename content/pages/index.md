@@ -134,7 +134,7 @@ sections:
     subtitle: ''
     title: Projects
   - type: MediaGallerySection
-    title: Gallery
+    title: Resume
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
