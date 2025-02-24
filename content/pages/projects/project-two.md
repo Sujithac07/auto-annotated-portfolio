@@ -7,10 +7,6 @@ client: ''
 description: >-
   Developed a predictive model to assess the severity of diabetic nephropathy
   using gene polymorphisms and serum biomarkers.
-featuredImage:
-  type: ImageBlock
-  url: /images/bg2.jpg
-  altText: Project thumbnail image
 media:
   type: ImageBlock
   url: /images/bg2.jpg
