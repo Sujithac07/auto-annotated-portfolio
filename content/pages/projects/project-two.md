@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Machine Learning-Based Predictive Model for Diabetic Nephropathy
 colors: colors-a
-date: ''
+date: '2024-05-24'
 client: ''
 description: >-
   Developed a predictive model to assess the severity of diabetic nephropathy
