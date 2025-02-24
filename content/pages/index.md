@@ -96,6 +96,7 @@ sections:
         elementId: ''
     projects:
       - content/pages/projects/project-one.md
+      - content/pages/projects/2.md
     colors: colors-f
     variant: variant-d
     elementId: ''
