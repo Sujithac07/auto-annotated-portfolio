@@ -63,7 +63,9 @@ sections:
         label: 'Database Management: MySQL, Database Design and Implementation'
         url: ''
       - type: Label
-        label: Netlify
+        label: >-
+          Soft Skills: Problem Solving, Team Collaboration, Time Management,
+          Adaptability
         url: ''
       - type: Label
         label: Pancakes
