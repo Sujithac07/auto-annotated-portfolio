@@ -55,7 +55,9 @@ sections:
           Engineering
         url: ''
       - type: Label
-        label: React
+        label: >-
+          Data Science & Visualization: Jupyter Notebook, SPYDER, Matplotlib,
+          Tableau, Power BI
         url: ''
       - type: Label
         label: Next.js
