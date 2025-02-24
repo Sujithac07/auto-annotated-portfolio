@@ -68,9 +68,6 @@ sections:
           Adaptability
         url: ''
       - type: Label
-        label: Pancakes
-        url: ''
-      - type: Label
         label: C++
         url: ''
     colors: colors-f
