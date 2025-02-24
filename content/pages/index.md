@@ -151,10 +151,24 @@ sections:
       - type: FeaturedItem
         title: Projects and Research
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          **Machine Learning-Based Predictive Model for Diabetic Nephropathy**
+
+
+          *   Predicted disease severity using gene polymorphisms and serum
+          biomarkers.
+
+
+          *   Achieved 84.75% accuracy using Random Forest.
+
+
+          *   Co-authored a research paper with K. Surya Mounika and
+          Vivekanandan T.
+
+
+
+
+
         actions:
           - type: Button
             label: ''
