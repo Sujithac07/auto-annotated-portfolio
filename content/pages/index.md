@@ -67,9 +67,6 @@ sections:
           Soft Skills: Problem Solving, Team Collaboration, Time Management,
           Adaptability
         url: ''
-      - type: Label
-        label: C++
-        url: ''
     colors: colors-f
     elementId: ''
     styles:
