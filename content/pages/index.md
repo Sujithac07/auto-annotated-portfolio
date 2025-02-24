@@ -233,6 +233,8 @@ sections:
     title: EDUCATION
     text: |+
       **The Apollo University, Chittoor, Andhra Pradesh, India**
+
+
       Bachelor of Technology (B.Tech) in Computer Science and Engineering
       Specialization: Artificial Intelligence and Data Science
 
