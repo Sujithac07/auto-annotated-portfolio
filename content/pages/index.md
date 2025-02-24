@@ -50,10 +50,10 @@ sections:
         label: 'Programming Languages: Python, Java, C, DSA, R, SQL'
         url: ''
       - type: Label
-        label: React
+        label: Microsoft Office
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: React
         url: ''
       - type: Label
         label: Next.js
