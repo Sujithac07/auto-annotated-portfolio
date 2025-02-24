@@ -121,6 +121,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: center
+    title: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
