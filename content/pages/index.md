@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Crafting Intelligent Solutions with Data and A
+    title: Crafting Intelligent Solutions with Data and AI
     subtitle: ''
     styles:
       self:
