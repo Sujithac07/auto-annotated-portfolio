@@ -19,12 +19,7 @@ sections:
       solutions using Machine Learning, Data Science, and Generative AI
       technologies. Currently preparing for placements and aiming to become a
       Data Scientist
-    subtitle: >-
-      Hi, I'm Sujith A C, a passionate Computer Science student specializing in
-      Artificial Intelligence and Data Science. I thrive on creating impactful
-      solutions using Machine Learning, Data Science, and Generative AI
-      technologies. Currently preparing for placements and aiming to become a
-      Data Scientist
+    subtitle: ''
     styles:
       self:
         height: auto
