@@ -123,7 +123,7 @@ sections:
         justifyContent: center
     title: Projects
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: EXPERIENCES
     items:
       - type: FeaturedItem
         title: I'm Fast
