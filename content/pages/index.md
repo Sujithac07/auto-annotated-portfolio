@@ -128,10 +128,21 @@ sections:
       - type: FeaturedItem
         title: INTERNSHIPS
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |+
+          **Data Science Intern at Cognifyz Technologies**
+
+          *   Created data visualizations using Tableau and Power BI.
+
+          *   Built ML models for classification and regression tasks.
+
+          *   Documented data workflows in Jupyter Notebooks.
+
+          *   Received positive feedback from supervisors.
+
+
+
+
+
         featuredImage:
           type: ImageBlock
           url: >-
