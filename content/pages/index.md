@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 44
 sections:
   - type: HeroSection
-    title: Aspiring Data Scientist| AI & Generative AI Enthusiast
+    title: "Aspiring Data Scientist|\_ \_ \_ \_ \_ \_ AI & Generative AI Enthusiast"
     subtitle: >-
       This is my info—I'm sharing it all this with ya'll to impress you with all
       the hard work I've done in the past few years. Once you're impressed, you
