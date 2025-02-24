@@ -120,7 +120,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
+    subtitle: Explore My Work
     title: Projects
   - type: FeaturedPostsSection
     elementId: ''
