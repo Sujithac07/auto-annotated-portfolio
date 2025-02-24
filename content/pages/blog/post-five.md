@@ -3,7 +3,7 @@ type: PostLayout
 title: Internships
 colors: colors-a
 date: ''
-excerpt: More context that may or may not be helpful
+excerpt: ''
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
