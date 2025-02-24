@@ -123,7 +123,7 @@ sections:
         justifyContent: center
     title: Projects
   - type: FeaturedPostsSection
-    title: 'Posts:'
+    title: ''
     actions:
       - type: Link
         label: See all posts
