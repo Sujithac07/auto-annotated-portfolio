@@ -7,10 +7,6 @@ client: ''
 description: >-
   Developed a predictive model to assess the severity of diabetic nephropathy
   using gene polymorphisms and serum biomarkers.
-media:
-  type: ImageBlock
-  url: /images/bg2.jpg
-  altText: Project image
 ---
 The **Machine Learning-Based Predictive Model for Diabetic Nephropathy** is a complex research endeavor that seeks to predict the severity of diabetic nephropathy through the integration of gene polymorphisms and serum biomarkers. Diabetic nephropathy, a severe complication of diabetes, can result in end-stage renal disease if it is not detected and treated in its early stages. This endeavor utilizes the capabilities of machine learning to improve early detection and deliver personalized management approaches for patients.
 
