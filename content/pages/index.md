@@ -84,7 +84,7 @@ sections:
       subtitle:
         textAlign: left
   - type: FeaturedProjectsSection
-    subtitle: ''
+    subtitle: Explore My Work
     actions:
       - type: Link
         label: See all projects
