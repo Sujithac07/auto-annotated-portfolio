@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     title: >-
       Hi, I'm Sujith A C, a passionate Computer Science student specializing in
       Artificial Intelligence and Data Science. I thrive on creating impactful
