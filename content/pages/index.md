@@ -231,13 +231,15 @@ sections:
     colors: colors-f
     variant: variant-a
     title: EDUCATION
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: |+
+      **The Apollo University, Chittoor, Andhra Pradesh, India**
+      Bachelor of Technology (B.Tech) in Computer Science and Engineering
+      Specialization: Artificial Intelligence and Data Science
+
+      *   **Graduation Date:** 2026
+
+      *   **GPA:** 9.2
+
     elementId: ''
     styles:
       self:
