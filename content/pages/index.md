@@ -194,7 +194,7 @@ sections:
     colors: colors-f
     columns: 3
     spacingX: 83
-    spacingY: 16
+    spacingY: 44
     elementId: ''
     styles:
       self:
