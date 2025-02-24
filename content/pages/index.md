@@ -50,7 +50,9 @@ sections:
         label: 'Programming Languages: Python, Java, C, DSA, R, SQL'
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: >-
+          Machine Learning & AI: TensorFlow, Scikit-learn, Generative AI, LLM
+          Engineering
         url: ''
       - type: Label
         label: React
