@@ -14,8 +14,11 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      Hi, I'm Sujith A C, a passionate Computer Science student specializing in
+      Artificial Intelligence and Data Science. I thrive on creating impactful
+      solutions using Machine Learning, Data Science, and Generative AI
+      technologies. Currently preparing for placements and aiming to become a
+      Data Scientist
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
@@ -84,7 +87,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
