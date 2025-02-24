@@ -47,7 +47,7 @@ sections:
     subtitle: ''
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: 'Programming Languages: Python, Java, C, R, SQL'
         url: ''
       - type: Label
         label: React
