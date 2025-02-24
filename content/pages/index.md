@@ -126,7 +126,7 @@ sections:
     title: EXPERIENCES
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: INTERNSHIPS
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
