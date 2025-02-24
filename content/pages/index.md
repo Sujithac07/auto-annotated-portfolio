@@ -87,7 +87,7 @@ sections:
     subtitle: ''
     actions:
       - type: Link
-        label: See all projects
+        label: Explore My Work
         altText: See all projects
         url: /projects
         showIcon: false
