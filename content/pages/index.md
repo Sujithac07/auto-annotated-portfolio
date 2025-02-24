@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 44
 sections:
   - type: HeroSection
-    title: "Aspiring Data Scientist |\_ \_ \_ \_ AI & Generative AI Enthusiast"
+    title: "Aspiring Data Scientist|\_ \_ \_ \_ \_AI & Generative AI Enthusiast"
     subtitle: >-
       Hi, I'm Sujith A C, a passionate Computer Science student specializing in
       Artificial Intelligence and Data Science. I thrive on creating impactful
