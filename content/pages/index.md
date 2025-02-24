@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Aspiring Data Scientist |     AI & Generative AI Enthusiast
+    title: Aspiring Data Scientist |                AI & Generative AI Enthusiast
     subtitle: ''
     styles:
       self:
