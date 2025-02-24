@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Machine Learning-Based Predictive Model for Diabetic Nephropathy
-colors: colors-a
+colors: colors-b
 date: '2024-06-01'
 client: ''
 description: >-
