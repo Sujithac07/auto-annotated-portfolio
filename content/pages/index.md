@@ -60,7 +60,7 @@ sections:
           Tableau, Power BI
         url: ''
       - type: Label
-        label: Next.js
+        label: 'Database Management: MySQL, Database Design and Implementation'
         url: ''
       - type: Label
         label: Netlify
