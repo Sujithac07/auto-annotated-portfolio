@@ -192,10 +192,15 @@ sections:
       - type: FeaturedItem
         title: Leadership and Collaboration
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          *   **Leadership Role in Student Sports Club**
+
+
+          *   **Participant in Coding Club and Sports Club at The Apollo
+          University**
+
+
+
         elementId: ''
         styles:
           self:
