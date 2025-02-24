@@ -12,7 +12,7 @@ bottomSections:
     colors: colors-f
     variant: variant-a
     title: ''
-    subtitle: The section subtitle
+    subtitle: ''
     text: >+
       The **Machine Learning-Based Predictive Model for Diabetic Nephropathy**
       is a complex research endeavor that seeks to predict the severity of
