@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Crafting Intelligent Solutions with Data and AI
+    title: Aspiring Data Scientist | AI & Generative AI Enthusiast
     subtitle: ''
     styles:
       self:
