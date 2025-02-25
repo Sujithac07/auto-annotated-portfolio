@@ -234,13 +234,12 @@ sections:
     text: |+
       **The Apollo University, Chittoor, Andhra Pradesh, India**
 
-
       Bachelor of Technology (B.Tech) in Computer Science and Engineering
       Specialization: Artificial Intelligence and Data Science
 
       *   **Graduation Date:** 2026
 
-      *   **GPA:** 9.2
+      *   **GPA:** 9.0
 
     elementId: ''
     styles:
