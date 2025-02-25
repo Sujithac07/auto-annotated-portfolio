@@ -300,6 +300,13 @@ sections:
           placeholder: Your email
           width: full
           isRequired: 'true'
+        - type: EmailFormControl
+          name: email-address
+          label: Name
+          hideLabel: false
+          placeholder: Your name
+          width: full
+          isRequired: false
       submitLabel: Sign Up
       elementId: contact-form
       styles:
