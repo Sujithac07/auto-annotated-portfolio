@@ -286,7 +286,9 @@ sections:
         textAlign: left
   - type: ContactSection
     title: Subscribe
-    text: Join my newsletter to stay up-to-date
+    text: |+
+      Join 
+
     form:
       type: FormBlock
       title: Title of the form
