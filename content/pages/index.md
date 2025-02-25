@@ -263,13 +263,17 @@ sections:
     variant: variant-b
     title: Certifications
     subtitle: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      *   **Google Cloud Computing Foundations** – Gained foundational knowledge
+      of cloud computing services and infrastructure.
+
+
+      *   **Data Science Intern (Cognifyz Technologies)** – Completed an
+      internship focused on data visualization, machine learning model
+      development, and data engineering workflows.
+
+
+
     elementId: ''
     styles:
       self:
