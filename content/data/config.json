@@ -54,7 +54,7 @@
                 "label": "Contact",
                 "url": "mailto:sujithac07@gmail.com",
                 "altText": "",
-                "showIcon": true
+                "showIcon": false
             },
             {
                 "type": "Link",
