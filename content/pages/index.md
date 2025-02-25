@@ -303,7 +303,7 @@ sections:
       styles:
         submitLabel:
           textAlign: left
-    colors: colors-c
+    colors: colors-f
     backgroundSize: full
     elementId: ''
     styles:
