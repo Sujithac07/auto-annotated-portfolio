@@ -1,7 +1,7 @@
 ---
 type: PageLayout
 title: Home
-colors: colors-b
+colors: colors-a
 sections:
   - type: HeroSection
     title: "Aspiring Data Scientist|\_ \_ \_ \_ \_ AI & Generative AI Enthusiast"
