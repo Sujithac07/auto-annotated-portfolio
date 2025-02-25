@@ -5,7 +5,7 @@
         "headerVariant": "variant-c",
         "isSticky": false,
         "title": "portfolio",
-        "isTitleVisible": true,
+        "isTitleVisible": false,
         "primaryLinks": [
             {
                 "type": "Link",
