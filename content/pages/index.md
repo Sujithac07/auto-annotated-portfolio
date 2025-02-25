@@ -286,9 +286,8 @@ sections:
         textAlign: left
   - type: ContactSection
     title: Contact
-    text: |+
-      Join 
-
+    text: |
+      Join us
     form:
       type: FormBlock
       title: Title of the form
