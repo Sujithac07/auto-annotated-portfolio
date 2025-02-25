@@ -254,7 +254,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: Certifications
+    title: '    Certifications'
     subtitle: ''
     text: >+
       *   **Google Cloud Computing Foundations** – Gained foundational knowledge
