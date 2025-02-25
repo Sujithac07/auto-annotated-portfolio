@@ -260,7 +260,7 @@ sections:
         textAlign: left
   - type: TextSection
     colors: colors-f
-    variant: variant-b
+    variant: variant-a
     title: Certifications
     subtitle: ''
     text: >+
