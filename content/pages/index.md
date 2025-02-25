@@ -261,7 +261,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-b
-    title: ''
+    title: Certifications
     subtitle: The section subtitle
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
