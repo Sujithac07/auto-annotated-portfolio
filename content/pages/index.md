@@ -2,13 +2,6 @@
 type: PageLayout
 title: Home
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 44
 sections:
   - type: HeroSection
     title: "Aspiring Data Scientist|\_ \_ \_ \_ \_ AI & Generative AI Enthusiast"
