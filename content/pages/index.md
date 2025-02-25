@@ -285,7 +285,7 @@ sections:
       text:
         textAlign: left
   - type: ContactSection
-    title: Subscribe
+    title: Contact
     text: |+
       Join 
 
