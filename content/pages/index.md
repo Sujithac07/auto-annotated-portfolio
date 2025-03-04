@@ -322,7 +322,7 @@ sections:
       styles:
         submitLabel:
           textAlign: left
-    colors: colors-b
+    colors: colors-f
     backgroundSize: full
     elementId: ''
     styles:
