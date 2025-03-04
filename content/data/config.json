@@ -23,8 +23,8 @@
             },
             {
                 "type": "Social",
-                "label": "linked in",
-                "altText": "",
+                "label": "Liniked in",
+                "altText": "Liniked in",
                 "url": "www.linkedin.com/in/sujith-ac-profile",
                 "icon": "linkedin",
                 "elementId": ""
