@@ -322,12 +322,6 @@ sections:
       styles:
         submitLabel:
           textAlign: left
-    media:
-      type: ImageBlock
-      url: /images/contact.jpg
-      altText: Contact form image
-      caption: Caption of the image
-      elementId: ''
     colors: colors-d
     backgroundSize: full
     elementId: ''
