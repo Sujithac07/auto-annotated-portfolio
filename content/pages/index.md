@@ -292,7 +292,7 @@ sections:
       title: Title of the form
       fields:
         - type: TextFormControl
-          name: name
+          name: ''
           label: ''
           hideLabel: false
           placeholder: Your name
