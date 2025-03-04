@@ -301,7 +301,7 @@ sections:
         - type: EmailFormControl
           name: email
           label: Name
-          hideLabel: true
+          hideLabel: false
           placeholder: Your email
           width: 1/2
           isRequired: 'true'
